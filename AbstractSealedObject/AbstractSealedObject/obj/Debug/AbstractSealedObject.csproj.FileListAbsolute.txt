@@ -1,0 +1,6 @@
+E:\P116\AbstractSealedObject\AbstractSealedObject\bin\Debug\AbstractSealedObject.exe.config
+E:\P116\AbstractSealedObject\AbstractSealedObject\bin\Debug\AbstractSealedObject.exe
+E:\P116\AbstractSealedObject\AbstractSealedObject\bin\Debug\AbstractSealedObject.pdb
+E:\P116\AbstractSealedObject\AbstractSealedObject\obj\Debug\AbstractSealedObject.csprojAssemblyReference.cache
+E:\P116\AbstractSealedObject\AbstractSealedObject\obj\Debug\AbstractSealedObject.exe
+E:\P116\AbstractSealedObject\AbstractSealedObject\obj\Debug\AbstractSealedObject.pdb
